@@ -1,0 +1,81 @@
+.background {
+	background: url("http://i4m032imkie3gak4u536h719-wpengine.netdna-ssl.com/wp-content/uploads/2015/10/K2_Mount_Godwin_Austen_Chogori_Savage_Mountain.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 900px;
+}
+
+.myName {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 75px;
+	letter-spacing: 20px;
+	text-transform: uppercase;
+	font-weight: 300;
+	background: transparent;
+	text-align: center;
+	float: left;
+	margin-top: 300px;
+	margin-left: 50px;
+}
+
+body {
+	background: #E2E1E1;
+}
+
+a {
+	font-size: 20px;
+	margin-top: 10px;
+	font-family: 'Source Sans Pro', sans-serif;
+	padding-right: 10px;
+	padding-left: 10px;
+	letter-spacing: 2px;
+	float: right;
+
+}
+
+.bio {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	text-align: center;
+}
+
+.aboutMe {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 75px;
+	letter-spacing: 20px;
+	text-transform: uppercase;
+	font-weight: 300;
+	text-align: center;
+	margin-top: 300px;
+	margin-left: 50px;
+	height: 400px;
+}	
+
+.portfolioHeader {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 75px;
+	letter-spacing: 20px;
+	text-transform: uppercase;
+	font-weight: 300;
+	text-align: center;
+	margin-top: 0px;
+	height: 100px;
+	background: #E2E1E1;
+}
+
+nav {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+	letter-spacing: 10px;
+}
+
+.photosOneAndThree {
+	clear: left;
+}
+
+.photoTwo {
+	clear: right;
+}
